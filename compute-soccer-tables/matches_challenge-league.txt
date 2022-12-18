@@ -1,0 +1,100 @@
+FC Wil 1900 2:1 FC Schaffhausen
+Yverdon-Sport FC 0:1 FC Aarau
+FC Thun 4:2 FC Vaduz
+FC Stade Lausanne-Ouchy 2:2 AC Bellinzona
+Neuchâtel Xamax 1:1 FC Lausanne-Sport
+FC Lausanne-Sport 2:1 Neuchâtel Xamax
+FC Stade Lausanne-Ouchy 1:1 Yverdon-Sport FC
+FC Vaduz 3:2 FC Aarau
+FC Schaffhausen 2:1 FC Thun
+AC Bellinzona 1:0 FC Wil 1900
+FC Wil 1900 1:2 AC Bellinzona
+FC Aarau 4:1 FC Vaduz
+Yverdon-Sport FC 1:1 Neuchâtel Xamax
+FC Thun 0:3 FC Schaffhausen
+FC Lausanne-Sport 4:1 FC Stade Lausanne-Ouchy
+AC Bellinzona 4:2 FC Schaffhausen
+FC Thun 5:0 Yverdon-Sport FC
+FC Aarau 5:5 FC Lausanne-Sport
+Neuchâtel Xamax 2:1 FC Stade Lausanne-Ouchy
+FC Vaduz 1:5 FC Wil 1900
+Yverdon-Sport FC 0:5 FC Wil 1900
+FC Thun 1:4 FC Lausanne-Sport
+FC Aarau 1:4 AC Bellinzona
+FC Vaduz 2:4 FC Schaffhausen
+FC Stade Lausanne-Ouchy 1:1 Neuchâtel Xamax
+FC Stade Lausanne-Ouchy 1:2 FC Thun
+FC Wil 1900 0:3 FC Lausanne-Sport
+Yverdon-Sport FC 4:0 FC Vaduz
+Neuchâtel Xamax 4:3 AC Bellinzona
+FC Schaffhausen 0:4 FC Aarau
+FC Wil 1900 5:0 FC Stade Lausanne-Ouchy
+FC Lausanne-Sport 5:4 FC Vaduz
+Yverdon-Sport FC 0:4 AC Bellinzona
+FC Thun 0:5 Neuchâtel Xamax
+FC Aarau 0:4 FC Schaffhausen
+FC Thun 2:0 FC Wil 1900
+FC Schaffhausen 3:5 Neuchâtel Xamax
+FC Stade Lausanne-Ouchy 0:1 FC Aarau
+FC Vaduz 0:3 Yverdon-Sport FC
+FC Lausanne-Sport 1:5 AC Bellinzona
+AC Bellinzona 0:1 FC Stade Lausanne-Ouchy
+FC Schaffhausen 5:0 FC Wil 1900
+FC Lausanne-Sport 1:1 FC Thun
+Neuchâtel Xamax 0:2 FC Vaduz
+FC Aarau 0:2 Yverdon-Sport FC
+Neuchâtel Xamax 0:5 FC Thun
+FC Lausanne-Sport 5:1 FC Wil 1900
+AC Bellinzona 1:0 FC Aarau
+Yverdon-Sport FC 3:5 FC Schaffhausen
+FC Vaduz 0:3 FC Stade Lausanne-Ouchy
+FC Schaffhausen 1:1 FC Wil 1900
+FC Aarau 0:1 Yverdon-Sport FC
+FC Vaduz 0:0 FC Thun
+AC Bellinzona 1:0 FC Stade Lausanne-Ouchy
+FC Lausanne-Sport 0:0 Neuchâtel Xamax
+Neuchâtel Xamax 1:2 FC Lausanne-Sport
+Yverdon-Sport FC 5:0 FC Stade Lausanne-Ouchy
+FC Aarau 2:2 FC Vaduz
+FC Thun 0:1 FC Schaffhausen
+FC Wil 1900 2:3 AC Bellinzona
+AC Bellinzona 0:4 FC Wil 1900
+FC Vaduz 0:0 FC Aarau
+Neuchâtel Xamax 1:0 Yverdon-Sport FC
+FC Schaffhausen 3:1 FC Thun
+FC Stade Lausanne-Ouchy 1:0 FC Lausanne-Sport
+FC Schaffhausen 2:0 AC Bellinzona
+Yverdon-Sport FC 1:2 FC Thun
+FC Lausanne-Sport 4:1 FC Aarau
+FC Stade Lausanne-Ouchy 2:1 Neuchâtel Xamax
+FC Wil 1900 0:3 FC Vaduz
+FC Wil 1900 1:2 Yverdon-Sport FC
+FC Lausanne-Sport 1:1 FC Thun
+AC Bellinzona 1:1 FC Aarau
+FC Schaffhausen 1:2 FC Vaduz
+Neuchâtel Xamax 5:1 FC Stade Lausanne-Ouchy
+FC Thun 1:2 FC Stade Lausanne-Ouchy
+FC Lausanne-Sport 1:2 FC Wil 1900
+FC Vaduz 3:1 Yverdon-Sport FC
+AC Bellinzona 1:5 Neuchâtel Xamax
+FC Aarau 1:1 FC Schaffhausen
+FC Stade Lausanne-Ouchy 3:0 FC Wil 1900
+FC Vaduz 4:5 FC Lausanne-Sport
+AC Bellinzona 1:1 Yverdon-Sport FC
+Neuchâtel Xamax 2:2 FC Thun
+FC Schaffhausen 1:0 FC Aarau
+FC Wil 1900 1:1 FC Thun
+Neuchâtel Xamax 1:1 FC Schaffhausen
+FC Aarau 1:1 FC Stade Lausanne-Ouchy
+Yverdon-Sport FC 1:2 FC Vaduz
+AC Bellinzona 3:5 FC Lausanne-Sport
+FC Stade Lausanne-Ouchy 0:5 AC Bellinzona
+FC Wil 1900 3:1 FC Schaffhausen
+FC Thun 0:5 FC Lausanne-Sport
+FC Vaduz 1:4 Neuchâtel Xamax
+Yverdon-Sport FC 4:1 FC Aarau
+FC Thun 1:1 Neuchâtel Xamax
+FC Wil 1900 2:0 FC Lausanne-Sport
+FC Aarau 2:4 AC Bellinzona
+FC Schaffhausen 2:2 Yverdon-Sport FC
+FC Stade Lausanne-Ouchy 4:1 FC Vaduz
