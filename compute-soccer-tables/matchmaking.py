@@ -3,12 +3,13 @@
 import random
 import sys
 
+sys.stdout.reconfigure(encoding='utf-8')
 
 def make_matches(teams, second_leg=True):
     if len(teams) % 2 != 0:
         raise ValueError('only even number of teams supported')
     matches = []
-    for i in range(len(teams)):
+    for i in range(len(teams) - 1):
         round_teams = list(teams)
         random.shuffle(round_teams)
         while round_teams:
@@ -43,7 +44,7 @@ if __name__ == '__main__':
         print(f'usage: {sys.argv[0]} [teams file]')
         sys.exit(1)
     teams_file = sys.argv[1]
-    with open(teams_file, 'r') as f:
+    with open(teams_file, 'r', encoding='utf-8') as f:
         teams = sorted(set(f.read().strip().split('\n')))
         for match in make_matches(teams):
             home_team = match[0]
